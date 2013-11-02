@@ -1,0 +1,10 @@
+Give-Me-LTC.com;stratum.give-me-ltc.com:3333;https://give-me-ltc.com
+Litecoin Rain;pool.litecoinrain.org:8337;http://litecoinrain.org
+LitecoinPool.org (EU);litecoinpool.org:9332;https://www.litecoinpool.org
+LitecoinPool.org (US);us.litecoinpool.org:9332;https://www.litecoinpool.org
+LTCmine.ru;127.0.0.1:8332;http://ltcmine.ru
+NetCode;netcodepool.org:8337;http://www.netcodepool.org
+P2Pool;http://p2pool.org:9327;http://p2pool.org
+PooledBits;pooledbits.com:8332;http://ltc.pooledbits.com
+WeMineLTC.com (EU);stratum+tcp://stratum2.wemineltc.com:3333;http://www.wemineltc.com
+WeMineLTC.com (US);stratum+tcp://us3.wemineltc.com:3333;http://www.wemineltc.com

@@ -1,0 +1,20 @@
+50BTC;stratum+tcp://stratum.50btc.com:3333;http://50btc.com/account
+Bitcoin.cz (Slush's pool);stratum.bitcoin.cz:3333;https://mining.bitcoin.cz/
+BitMinter;stratum+tcp://mint.bitminter.com:3333;https://bitminter.com
+Bitparking;mmpool.bitparking.com:3333;http://mmpool.bitparking.com
+BTC Guild (EU);eu-stratum.btcguild.com:3333;https://www.btcguild.com/
+BTC Guild (US);stratum.btcguild.com:3333;https://www.btcguild.com/
+BTC Mine;btcmine.com:8332;http://btcmine.com
+BTCmp.com;rr.btcmp.com:8332;http://www.btcmp.com
+Deepbit.net;http://pit.deepbit.net:8332;https://deepbit.net
+Eclipse Mining Consortium;http://us1.eclipsemc.com:3333;https://eclipsemc.com/
+Eligius;http://mining.eligius.st:8337;http://eligius.st
+Horrible Horrendous Terrible Tremendous Mining Pool;stratum.hhtt.1209k.com:3333;http://hhtt.1209k.com
+Itzod;pool.itzod.ru:8344;https://pool.itzod.ru/
+MaxBTC;pool.maxbtc.com:8332;https://www.maxbtc.com
+Ozcoin (AU);au.ozco.in:3333;http://ozco.in
+Ozcoin (EU);eustratum.ozco.in:3333;http://ozco.in
+Ozcoin (US);stratum.ozco.in:3333;http://ozco.in
+P2Pool;http://p2pool.org:9332;http://p2pool.org
+PolMine;polmine.pl:8347;https://polmine.pl
+TripleMining;stratum.triplemining.com:3334;https://www.triplemining.com
